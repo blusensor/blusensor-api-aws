@@ -1,1 +1,1 @@
-# bluSensor® Amazon AWS IoT API
+# bluSensor® Amazon AWS IoT
